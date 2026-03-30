@@ -9,8 +9,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-   display: none;
-    transition: .5s;
+  display: none;
+  transition: .5s;
 }
 
 
