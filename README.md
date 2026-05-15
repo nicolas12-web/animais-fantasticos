@@ -3,8 +3,11 @@ Land Page desenvolvida durante o curso da Origamid com o objetivo de aprofundar 
 Durante o projeto foram aplicados conceitos importantes como:
 
 🔥 Objetos
+
 🧩 Strings
+
 📚 Arrays
+
 ⏳ Promises
 🌐 Fetch API
 🔎 RegExp
