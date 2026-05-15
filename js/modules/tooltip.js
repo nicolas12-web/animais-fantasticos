@@ -10,9 +10,21 @@ tooltip.forEach((item)=>{
    
 })
 
+function criarTooltipBox(element){
+  const tooltipBox = document.createElement('div');
+  const texto = element.getAttribute('aria-label');
+
+  tooltipBox.classList.add('tooltip');
+  tooltipBox.innerText = texto;
+
+  document.body.appendChild(tooltipBox);
+
+  return tooltipBox;
+}
+
 
 function onMouseOver(event){
-    const TooltipBox = criarTooltipBox(this)
+    const TooltipBox = criarTooltipBox(this);
     TooltipBox.style.top = event.pageY + 'px';
     TooltipBox.style.left = event.pageX + 'px';
     
