@@ -1,8 +1,8 @@
-💻 ** Land Page JavaScript **
+💻 **Land Page JavaScript**
 
 Projeto desenvolvido durante o curso da Origamid, com foco no aprofundamento em JavaScript moderno e ferramentas utilizadas no desenvolvimento Front-End atual.
 
-🧠 O que foi praticado neste projeto
+🧠 **O que foi praticado neste projeto**
 
 Manipulação de Objetos, Strings e Arrays
 
@@ -24,27 +24,27 @@ Boas práticas de desenvolvimento Front-End
 
 O principal objetivo deste projeto foi consolidar conceitos importantes do ecossistema JavaScript moderno, entendendo desde manipulação de dados até ferramentas utilizadas em aplicações profissionais 🚀
 
-⚙️ Tecnologias utilizadas
+⚙️ **Tecnologias utilizadas**
 
-HTML5
+`HTML5`  
 
-CSS3
+`CSS3`
 
-JavaScript ES6+
+`JavaScript ES6+`
 
-Fetch API
+`Fetch API`
 
-Promises
+`Promises`
 
-RegExp
+`RegExp`
 
-NPM
+`NPM`
 
-Git & GitHub
+`Git & GitHub`
 
-Babel
+`Babel`
 
-Webpack
+`Webpack`
 
 🌐 Projeto online
 
