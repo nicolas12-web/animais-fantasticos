@@ -80,7 +80,7 @@ Abra o arquivo `index.html` no navegador ou utilize a extensão **Live Server** 
 Caso o projeto esteja publicado:
 
 **GitHub Pages:**  
-https://SEU-USUARIO.github.io/animais-fantasticos/
+https://nicolas12-web.github.io/animais-fantasticos/
 
 ## 📚 Créditos
 
